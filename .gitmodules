@@ -1,0 +1,3 @@
+[submodule "submodule/ng-mfe-home"]
+	path = submodule/ng-mfe-home
+	url = https://github.com/marcoguilherme/ng-mfe-home.git
